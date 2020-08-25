@@ -6,25 +6,33 @@ The subject of this Engineering Report (ER) is a development Sprint that was hel
 
 === Executive Summary
 
-The idea of the EDR API is to enable end users and Web developers to conveniently and easily retrieve required data from big data stores, using current Web technologies and a significantly reduced learning curve, with unnecessary details initially hidden from the service endpoint. The API queries can be considered discrete sampling geometries into the non-sparse relatively persistent data store. 
+The idea of the EDR API is to enable end users and Web developers to conveniently and easily retrieve required data from big data stores, using current Web technologies and a significantly reduced learning curve, with unnecessary details initially hidden from the service endpoint. The API queries can be considered discrete sampling geometries into the non-sparse relatively persistent data store.
 
-The EDR API Sprint was to provide feedback based on the current EDR API candidate specification. The specific objectives were discussed prior to and in the opening session of the Sprint, which includes: 
+The EDR API Sprint was to provide feedback based on the current EDR API candidate specification. The specific objectives were discussed prior to and in the opening session of the Sprint, which includes:
 
-*	Verify and validate requirements and methods for the Query and Filter operations of the EDR API
-*	Prototype rapidly other geometry types for the EDR API (partitioned grids or tiles, vertical profiles and/or trajectories/corridors)
-*	Develop client-side value-added applications that consume data from UK Met Office and US NWS prototype EDR API implementations
-*	Make progress on conformance testing of EDR API parts based on queries
+*	Verify and validate requirements and methods for the Query and Filter operations of the EDR API;
 
-There were about two dozen individuals that participated in the event. Significant progress was made advancing the specification in several key functional areas. A number of GitHub issues were created and discussed throughout the Sprint. The Sprint was considered very successful with clarifications and enhancements of the specification agreed. Commonality and differences with the other OGC APIs under development were identified. 
+*	Prototype rapidly other geometry types for the EDR API (partitioned grids or tiles, vertical profiles, and/or trajectories/corridors);
+
+*	Develop client-side value-added applications that consume data from UK Met Office and US NWS prototype EDR API implementations; and
+
+*	Make progress on conformance testing of EDR API parts based on queries.
+
+There were about two dozen individuals that participated in the event. Significant progress was made advancing the specification in several key functional areas. A number of GitHub issues were created and discussed throughout the Sprint. The Sprint was considered very successful with clarifications and enhancements of the specification agreed. Commonality and differences with the other OGC APIs under development were identified.
 
 Based on the results and findings of the Sprint, this engineering report makes the following recommendations:
 
-* Expand metadata offerings, consider what Metadata frameworks should be used, recommended or mandated
-*	Test other sampling geometry types
-*	Investigate how to integrate with other APIs (features/coordinates, maps)
-*	Incorporate the needed security aspects. This needs to be coordinated with the Security DWG and OWS Common - Security SWG
-*	Incorporate a pub/sub mechanism with the EDR API specification
-*	Investigate how to align with decision impact groups like SmartCity, others
+* Expand metadata offerings, consider what Metadata frameworks should be used, recommended, or mandated;
+
+*	Test other sampling geometry types;
+
+*	Investigate how to integrate with other APIs (features/coordinates, maps);
+
+*	Incorporate the needed security aspects. This needs to be coordinated with the Security DWG and OWS Common - Security SWG;
+
+*	Incorporate a pub/sub mechanism with the EDR API specification; and
+
+*	Investigate how to align with decision impact groups like SmartCity, others.
 
 ===	Document contributor contact points
 

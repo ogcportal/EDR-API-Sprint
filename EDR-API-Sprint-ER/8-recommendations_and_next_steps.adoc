@@ -8,7 +8,7 @@
 
 * Agreed that we would allow named "locations" (now Positions)
 
-* Agreed that named “times” seem to be a good analogy to named “locations”, such as “Latest”
+* Agreed that named “times” seem to be a good analogy to named “locations,” such as “Latest”
 
 * Groups vs Collections were explored and the current working definition of Collections remains
 
