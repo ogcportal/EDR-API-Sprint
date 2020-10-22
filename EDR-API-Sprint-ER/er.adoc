@@ -14,7 +14,7 @@
 
 
 :category: OGC Public Engineering Report
-:publicationDate: 2020-MM-DD
+:publicationDate: 2020-10-22
 :approvalDate: 2020-06-22
 :referenceURLID:
 :copyrightYear: 2020
